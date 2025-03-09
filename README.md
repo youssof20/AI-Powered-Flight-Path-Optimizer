@@ -40,25 +40,3 @@ License
 This project is licensed under the MIT License.
 
 ---
-
-### 2. `requirements.txt`
-numpy==1.23.5
-pandas==1.5.2
-scikit-learn==1.1.3
-matplotlib==3.6.1
-networkx==2.8.8
-
----
-
-### 3. `run.sh`
-
-```bash
-#!/bin/bash
-
-# Run the flight path optimizer
-echo "Starting AI-Powered Flight Path Optimizer..."
-python src/main.py
-Make sure to give execution permissions to the script:
-
-bash
-chmod +x run.sh
