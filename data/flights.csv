@@ -1,0 +1,4 @@
+origin,destination,distance,duration
+JFK,LAX,2475,360
+JFK,ATL,760,120
+ATL,LAX,1946,280
